@@ -20,7 +20,7 @@ public static void main(String[] args)
     //Total cost of socks with sales tax
     double finalcosts$=(totalsockcost$+salestaxs$);
     // The rounded final cost of socks
-    double roundedcosts$= (int) (finalcosts$*100)/100.00;
+    double roundedcosts$= (int) (finalcosts$*100)/100.0;
     
     
     //Number of drinking glasses
